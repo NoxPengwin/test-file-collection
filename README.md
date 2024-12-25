@@ -20,10 +20,10 @@
 
 -->
 
-<h3 align="center">Title</h3>
+<h3 align="center">Pentesting Test File Collection</h3>
 
   <p align="center">
-    Description
+    Collection of files for testing such as small jpg, png and pdf files.
     <br />
     <!--
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
