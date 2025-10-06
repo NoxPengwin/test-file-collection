@@ -176,17 +176,6 @@ Distributed under the AGPLv3 License. See `LICENSE.txt` for more information.
 
 
 
-<!-- CONTACT -->
-## Contact
-
-Jun Takemura - [@juntakemura_dev](https://x.com/juntakemura_dev) - juntakemura.swifter580@slmails.com
-
-Project Link: [https://github.com/JunTakemura/test-file-collection](https://github.com/JunTakemura/test-file-collection)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- ACKNOWLEDGMENTS -->
 <!--
 ## Acknowledgments
